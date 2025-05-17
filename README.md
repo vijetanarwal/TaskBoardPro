@@ -50,9 +50,7 @@ A real-time collaborative task management Android app built with **Kotlin**, **J
 ---
 
 ## 🧑‍💻 Setup Instructions
-
-1. Clone the repository:
-```bash
+1.Clone the repository:
 git clone https://github.com/yourusername/TaskBoardPro.git
 Open in Android Studio
 
