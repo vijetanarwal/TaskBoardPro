@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64274262465",
+    "firebase_url": "https://taskboardpro-c4fd4-default-rtdb.firebaseio.com",
+    "project_id": "taskboardpro-c4fd4",
+    "storage_bucket": "taskboardpro-c4fd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64274262465:android:103abc8913a2f3cf306740",
+        "android_client_info": {
+          "package_name": "com.example.taskboardpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64274262465-36hlehtthnqgibdt4geiao394fcdj6nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskboardpro",
+            "certificate_hash": "c0c5d0d7970ddc4444b8123bc8e33d0f4c1ed771"
+          }
+        },
+        {
+          "client_id": "64274262465-52pusj1042hav6ig6ma8h8o3n8kbdn2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk5SROIFwxx3WKQTYewYoBgRT_dvjrgOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64274262465-1p221sn0goaqfc68v7vktegehulrntp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
